@@ -1,8 +1,5 @@
 package com.sample;
 
-import java.util.HashMap;
-import java.util.Map;
-
 public class FindOccurencesOfVowels {
 	
 	
